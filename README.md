@@ -1,4 +1,4 @@
-# Book Catalog App
+# Simple Book Catalog Flutter App
 
 This repository contains the source code for a Book Catalog App built with Flutter. The app allows users to browse, search, and manage a collection of books.
 
